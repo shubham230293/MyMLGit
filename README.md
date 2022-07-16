@@ -9,3 +9,5 @@ Here i upload all my DataScience related code that i learn via several resources
 9Jul : Logistic Regression
 
 16Jul : Decision Tree
+
+16Jul : KMeans Clustering and Silhoutte
